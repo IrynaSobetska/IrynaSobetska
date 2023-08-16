@@ -5,10 +5,6 @@
 Currently, I am studying front-end development course in HYF. I`d like to work
 in IT sphere and became a professional specialist in it.
 
-## 👩‍🎓Education
-
-gradueted from school
-
 ## 📚Languages
 
 1. Ukrainian (native)
